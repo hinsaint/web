@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Fashionista Clothing</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Shop</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+		<h1>Fashionista Clothing</h1>
+	</header>
+	
+	<main>
+		<section id="featured">
+			<h2>Featured Products</h2>
+			<!-- Featured products display code goes here -->
+		</section>
+		
+		<section id="blog">
+			<h2>Latest Blog Posts</h2>
+			<!-- Latest blog posts display code goes here -->
+		</section>
+	</main>
+	
+	<footer>
+		<p>&copy; Fashionista Clothing 2023</p>
+	</footer>
+</body>
+</html>
